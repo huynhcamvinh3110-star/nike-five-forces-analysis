@@ -1,26 +1,20 @@
-# Nike Five Forces Analysis
+# Sportswear Industry Five Forces Analysis
 
-This project analyzes Nike using Porter's Five Forces model.
-
-## Company
-Nike is a global sportswear brand operating in a highly competitive industry.
+## Companies Analyzed
+- Nike
+- Adidas
 
 ## Objective
-- Evaluate industry competitive pressure
-- Quantify Five Forces using a scoring system
-- Classify industry intensity level
+Compare industry competitive pressure between two leading sportswear brands.
 
-## Five Forces Scores
-- Competitive Rivalry: 5
-- Threat of New Entrants: 2
-- Bargaining Power of Suppliers: 3
-- Bargaining Power of Buyers: 4
-- Threat of Substitutes: 3
+## Method
+Porter's Five Forces model with scoring system (1-5 scale).
 
 ## Result
-Average Industry Pressure: 3.4  
-Industry Level: High Competition
+Both companies show high industry pressure with an average score of 3.4.
 
-## Tools Used
-- Python
-- Strategic Management Framework
+## Skills Demonstrated
+- Strategic Analysis
+- Quantitative Scoring
+- Python Programming
+- Industry Comparison
